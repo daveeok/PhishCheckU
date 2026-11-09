@@ -65,7 +65,7 @@ python name.py (replace name with the name of your archive)
 - Una terminal donde correr el programa.
 - No necesitas librerias externas.
 
-## Ejemplo de mensajes para testear
+## Ejemplos de mensajes para testear
 
 - Ejemplo de mensaje seguro.
 
