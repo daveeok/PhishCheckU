@@ -59,13 +59,13 @@ python name.py (replace name with the name of your archive)
 ```
 3. Pega el mensaje que quieres revisar y recibe el diagnostico.
 
-## Requeriments
+## Requisitos
 
 - Tener python 3.6 o una versión superior instalada en tu dispositivo.
 - Una terminal donde correr el programa.
 - No necesitas librerias externas.
 
-## Example messages to test
+## Ejemplo de mensajes para testear
 
 - Ejemplo de mensaje seguro.
 
